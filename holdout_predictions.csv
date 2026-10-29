@@ -1,0 +1,241 @@
+row_id,model,actual_label,predicted_label,message_preview
+0,Logistic Regression,0,0,"Hi, the Operating Systems assignment is due on Monday. Please upload your work to the college portal before the end of the day. Thank you."
+1,Logistic Regression,1,1,URGENT: Your account is scheduled for suspension. Verify your profile information today to avoid interruption. Please review the notificatio
+2,Logistic Regression,0,0,Reminder: our seminar begins at 2:30 PM. The agenda is available in the usual class group.
+3,Logistic Regression,1,1,Action required: profile information is on hold. Confirm your details immediately through the official portal.
+4,Logistic Regression,0,0,Your library book is due on Wednesday. Please return it to the college library desk.
+5,Logistic Regression,1,1,Your payment needs attention. Please validate your account now to prevent a temporary restriction.
+6,Logistic Regression,0,0,Your timetable for next week has been updated. Please check the official student portal.
+7,Logistic Regression,1,1,"Congratulations, you have been selected for a membership offer. Review the offer details before the deadline. Please review the notification"
+24,Logistic Regression,0,0,Your library book is due on Friday. Please return it to the college library desk. Thank you.
+25,Logistic Regression,1,1,Your subscription needs attention. Please validate your account now to prevent a temporary restriction. Please review the notification.
+26,Logistic Regression,0,0,Your timetable for Tuesday has been updated. Please check the official student portal.
+27,Logistic Regression,1,1,"Congratulations, you have been selected for a book voucher. Review the offer details before the deadline."
+28,Logistic Regression,0,0,Thanks for submitting the Applied Mathematics assignment. Your submission receipt is available in the portal.
+29,Logistic Regression,1,1,Payment notice: your student account is pending. Review the status using the official application.
+30,Logistic Regression,0,0,Your appointment is scheduled for Friday at the end of the day. Contact the office using the number on its official site if you need to resc
+31,Logistic Regression,1,1,"Security alert: a sign-in needs review. If this wasn't you, visit the known official site directly. Please review the notification."
+40,Logistic Regression,0,0,"Hi, the Machine Learning assignment is due on Friday. Please upload your work to the college portal before 5 PM. Thank you."
+41,Logistic Regression,1,1,URGENT: Your account is pending review. Verify your account details today to avoid interruption.
+42,Logistic Regression,0,0,Reminder: our seminar begins at 2:30 PM. The agenda is available in the usual class group. Reference code 143.
+43,Logistic Regression,1,1,Action required: subscription is under review. Confirm your details immediately through the official portal. Please review the notification.
+44,Logistic Regression,0,0,Your library book is due on next week. Please return it to the college library desk.
+45,Logistic Regression,1,1,Your account details needs attention. Please validate your account now to prevent a temporary restriction.
+46,Logistic Regression,0,0,Your timetable for Monday has been updated. Please check the official student portal.
+47,Logistic Regression,1,1,"Congratulations, you have been selected for a discount coupon. Review the offer details before the deadline."
+96,Logistic Regression,0,0,Your order update is available in the retailer's official app. No action is required if you have already received it. Thank you. Reference c
+97,Logistic Regression,1,1,Delivery update: address information may be incomplete. Check the tracking page you normally use. Please review the notification. Reference 
+98,Logistic Regression,0,0,Please review the meeting notes attached in the team's normal workspace before tomorrow's discussion. Reference code 199.
+99,Logistic Regression,1,1,Your subscription payment needs review. Open the official service app to view billing details. Reference code 200.
+100,Logistic Regression,0,0,"Hi, the Applied Mathematics assignment is due on Friday. Please upload your work to the college portal before 2:30 PM."
+101,Logistic Regression,1,1,URGENT: Your account is pending review. Verify your delivery details today to avoid interruption.
+102,Logistic Regression,0,0,Reminder: our seminar begins at 10 AM. The agenda is available in the usual class group.
+103,Logistic Regression,1,1,Action required: student account is under review. Confirm your details immediately through the official portal. Please review the notificati
+104,Logistic Regression,0,0,Your library book is due on next week. Please return it to the college library desk. Thank you.
+105,Logistic Regression,1,1,Your payment needs attention. Please validate your account now to prevent a temporary restriction. Reference code 206.
+106,Logistic Regression,0,0,Your timetable for next week has been updated. Please check the official student portal. Reference code 207.
+107,Logistic Regression,1,1,"Congratulations, you have been selected for a discount coupon. Review the offer details before the deadline. Reference code 208."
+108,Logistic Regression,0,0,Thanks for submitting the Operating Systems assignment. Your submission receipt is available in the portal. Reference code 209.
+109,Logistic Regression,1,1,Payment notice: your delivery details is pending. Review the status using the official application. Please review the notification.
+110,Logistic Regression,0,0,Your appointment is scheduled for Friday at 10 AM. Contact the office using the number on its official site if you need to reschedule.
+111,Logistic Regression,1,1,"Security alert: a sign-in needs review. If this wasn't you, visit the known official site directly. Reference code 212."
+248,Logistic Regression,0,0,Thanks for submitting the Machine Learning assignment. Your submission receipt is available in the portal. Thank you.
+249,Logistic Regression,1,1,Payment notice: your payment is pending. Review the status using the official application. Reference code 350.
+250,Logistic Regression,0,0,Your appointment is scheduled for next week at 5 PM. Contact the office using the number on its official site if you need to reschedule.
+251,Logistic Regression,1,1,"Security alert: a sign-in needs review. If this wasn't you, visit the known official site directly. Reference code 352."
+252,Logistic Regression,0,0,Monthly statement is ready to view in your banking app. We will never ask you to share your PIN or OTP by message. Reference code 353.
+253,Logistic Regression,1,1,Final reminder: your subscription request is incomplete. Check your account through the official app. Please review the notification. Refere
+254,Logistic Regression,0,0,"We received a password reset request. If you initiated it, continue from the official website you opened yourself. Reference code 355."
+255,Logistic Regression,1,1,Your mailbox storage is nearly full. Review storage settings from your organization's normal website. Reference code 356.
+264,Logistic Regression,0,0,Your library book is due on Tuesday. Please return it to the college library desk. Thank you.
+265,Logistic Regression,1,1,Your payment needs attention. Please validate your account now to prevent a temporary restriction. Please review the notification.
+266,Logistic Regression,0,0,Your timetable for Wednesday has been updated. Please check the official student portal. Reference code 367.
+267,Logistic Regression,1,1,"Congratulations, you have been selected for a book voucher. Review the offer details before the deadline. Reference code 368."
+268,Logistic Regression,0,0,Thanks for submitting the Applied Mathematics assignment. Your submission receipt is available in the portal. Reference code 369.
+269,Logistic Regression,1,1,Payment notice: your subscription is pending. Review the status using the official application.
+270,Logistic Regression,0,0,Your appointment is scheduled for next week at 2:30 PM. Contact the office using the number on its official site if you need to reschedule.
+271,Logistic Regression,1,1,"Security alert: a sign-in needs review. If this wasn't you, visit the known official site directly. Please review the notification. Referenc"
+288,Logistic Regression,0,0,Thanks for submitting the Operating Systems assignment. Your submission receipt is available in the portal. Thank you. Reference code 389.
+289,Logistic Regression,1,1,Payment notice: your student account is pending. Review the status using the official application. Please review the notification.
+290,Logistic Regression,0,0,Your appointment is scheduled for Monday at 2:30 PM. Contact the office using the number on its official site if you need to reschedule.
+291,Logistic Regression,1,1,"Security alert: a sign-in needs review. If this wasn't you, visit the known official site directly. Reference code 392."
+292,Logistic Regression,0,0,Monthly statement is ready to view in your banking app. We will never ask you to share your PIN or OTP by message. Reference code 393.
+293,Logistic Regression,1,1,Final reminder: your delivery details request is incomplete. Check your account through the official app.
+294,Logistic Regression,0,0,"We received a password reset request. If you initiated it, continue from the official website you opened yourself. Reference code 395."
+295,Logistic Regression,1,1,Your mailbox storage is nearly full. Review storage settings from your organization's normal website. Please review the notification. Refere
+360,Logistic Regression,0,0,"Hi, the Operating Systems assignment is due on Friday. Please upload your work to the college portal before 10 AM. Thank you."
+361,Logistic Regression,1,1,URGENT: Your account is under review. Verify your student account today to avoid interruption. Please review the notification.
+362,Logistic Regression,0,0,Reminder: our study group begins at 2:30 PM. The agenda is available in the usual class group.
+363,Logistic Regression,1,1,Action required: profile information is temporarily locked. Confirm your details immediately through the official portal.
+364,Logistic Regression,0,0,Your library book is due on next week. Please return it to the college library desk. Reference code 465.
+365,Logistic Regression,1,1,Your profile information needs attention. Please validate your account now to prevent a temporary restriction. Reference code 466.
+366,Logistic Regression,0,0,Your timetable for Wednesday has been updated. Please check the official student portal. Reference code 467.
+367,Logistic Regression,1,1,"Congratulations, you have been selected for a campus event pass. Review the offer details before the deadline. Please review the notificatio"
+368,Logistic Regression,0,0,Thanks for submitting the Java assignment. Your submission receipt is available in the portal. Thank you. Reference code 469.
+369,Logistic Regression,1,1,Payment notice: your student account is pending. Review the status using the official application. Reference code 470.
+370,Logistic Regression,0,0,Your appointment is scheduled for next week at 5 PM. Contact the office using the number on its official site if you need to reschedule. Ref
+371,Logistic Regression,1,1,"Security alert: a sign-in needs review. If this wasn't you, visit the known official site directly. Reference code 472."
+372,Logistic Regression,0,0,Monthly statement is ready to view in your banking app. We will never ask you to share your PIN or OTP by message. Reference code 473.
+373,Logistic Regression,1,1,Final reminder: your profile information request is incomplete. Check your account through the official app. Please review the notification.
+374,Logistic Regression,0,0,"We received a password reset request. If you initiated it, continue from the official website you opened yourself. Reference code 475."
+375,Logistic Regression,1,1,Your mailbox storage is nearly full. Review storage settings from your organization's normal website. Reference code 476.
+384,Logistic Regression,0,0,Your library book is due on Friday. Please return it to the college library desk. Thank you. Reference code 485.
+385,Logistic Regression,1,1,Your account details needs attention. Please validate your account now to prevent a temporary restriction. Please review the notification. R
+386,Logistic Regression,0,0,Your timetable for next week has been updated. Please check the official student portal. Reference code 487.
+387,Logistic Regression,1,1,"Congratulations, you have been selected for a membership offer. Review the offer details before the deadline. Reference code 488."
+388,Logistic Regression,0,0,Thanks for submitting the Java assignment. Your submission receipt is available in the portal.
+389,Logistic Regression,1,1,Payment notice: your subscription is pending. Review the status using the official application. Reference code 490.
+390,Logistic Regression,0,0,Your appointment is scheduled for Tuesday at 2:30 PM. Contact the office using the number on its official site if you need to reschedule. Re
+391,Logistic Regression,1,1,"Security alert: a sign-in needs review. If this wasn't you, visit the known official site directly. Please review the notification. Referenc"
+400,Logistic Regression,0,0,"Hi, the Data Structures assignment is due on next week. Please upload your work to the college portal before 2:30 PM. Thank you."
+401,Logistic Regression,1,1,URGENT: Your account is under review. Verify your payment today to avoid interruption.
+402,Logistic Regression,0,0,Reminder: our team meeting begins at the end of the day. The agenda is available in the usual class group.
+403,Logistic Regression,1,1,Action required: delivery details is awaiting confirmation. Confirm your details immediately through the official portal. Please review the 
+404,Logistic Regression,0,0,Your library book is due on Friday. Please return it to the college library desk. Reference code 505.
+405,Logistic Regression,1,1,Your account details needs attention. Please validate your account now to prevent a temporary restriction. Reference code 506.
+406,Logistic Regression,0,0,Your timetable for Tuesday has been updated. Please check the official student portal. Reference code 507.
+407,Logistic Regression,1,1,"Congratulations, you have been selected for a campus event pass. Review the offer details before the deadline. Reference code 508."
+416,Logistic Regression,0,0,Your order update is available in the retailer's official app. No action is required if you have already received it. Thank you. Reference c
+417,Logistic Regression,1,1,Delivery update: address information may be incomplete. Check the tracking page you normally use. Reference code 518.
+418,Logistic Regression,0,0,Please review the meeting notes attached in the team's normal workspace before tomorrow's discussion. Reference code 519.
+419,Logistic Regression,1,1,Your subscription payment needs review. Open the official service app to view billing details. Reference code 520.
+420,Logistic Regression,0,0,"Hi, the Applied Mathematics assignment is due on next week. Please upload your work to the college portal before 5 PM."
+421,Logistic Regression,1,1,URGENT: Your account is on hold. Verify your subscription today to avoid interruption. Please review the notification. Reference code 522.
+422,Logistic Regression,0,0,Reminder: our study group begins at 2:30 PM. The agenda is available in the usual class group. Reference code 523.
+423,Logistic Regression,1,1,Action required: subscription is awaiting confirmation. Confirm your details immediately through the official portal.
+432,Logistic Regression,0,0,Monthly statement is ready to view in your banking app. We will never ask you to share your PIN or OTP by message. Thank you. Reference code
+433,Logistic Regression,1,1,Final reminder: your account details request is incomplete. Check your account through the official app. Please review the notification.
+434,Logistic Regression,0,0,"We received a password reset request. If you initiated it, continue from the official website you opened yourself. Reference code 535."
+435,Logistic Regression,1,1,Your mailbox storage is nearly full. Review storage settings from your organization's normal website. Reference code 536.
+436,Logistic Regression,0,0,Your order update is available in the retailer's official app. No action is required if you have already received it. Reference code 537.
+437,Logistic Regression,1,1,Delivery update: address information may be incomplete. Check the tracking page you normally use. Reference code 538.
+438,Logistic Regression,0,0,Please review the meeting notes attached in the team's normal workspace before tomorrow's discussion. Reference code 539.
+439,Logistic Regression,1,1,Your subscription payment needs review. Open the official service app to view billing details. Please review the notification. Reference cod
+456,Logistic Regression,0,0,Your order update is available in the retailer's official app. No action is required if you have already received it. Thank you. Reference c
+457,Logistic Regression,1,1,Delivery update: address information may be incomplete. Check the tracking page you normally use. Please review the notification. Reference 
+458,Logistic Regression,0,0,Please review the meeting notes attached in the team's normal workspace before tomorrow's discussion. Reference code 559.
+459,Logistic Regression,1,1,Your subscription payment needs review. Open the official service app to view billing details. Reference code 560.
+460,Logistic Regression,0,0,"Hi, the Operating Systems assignment is due on Tuesday. Please upload your work to the college portal before 2:30 PM."
+461,Logistic Regression,1,1,URGENT: Your account is scheduled for suspension. Verify your delivery details today to avoid interruption.
+462,Logistic Regression,0,0,Reminder: our project review begins at 2:30 PM. The agenda is available in the usual class group.
+463,Logistic Regression,1,1,Action required: profile information is temporarily locked. Confirm your details immediately through the official portal. Please review the 
+0,Multinomial Naive Bayes,0,0,"Hi, the Operating Systems assignment is due on Monday. Please upload your work to the college portal before the end of the day. Thank you."
+1,Multinomial Naive Bayes,1,1,URGENT: Your account is scheduled for suspension. Verify your profile information today to avoid interruption. Please review the notificatio
+2,Multinomial Naive Bayes,0,0,Reminder: our seminar begins at 2:30 PM. The agenda is available in the usual class group.
+3,Multinomial Naive Bayes,1,1,Action required: profile information is on hold. Confirm your details immediately through the official portal.
+4,Multinomial Naive Bayes,0,0,Your library book is due on Wednesday. Please return it to the college library desk.
+5,Multinomial Naive Bayes,1,1,Your payment needs attention. Please validate your account now to prevent a temporary restriction.
+6,Multinomial Naive Bayes,0,0,Your timetable for next week has been updated. Please check the official student portal.
+7,Multinomial Naive Bayes,1,1,"Congratulations, you have been selected for a membership offer. Review the offer details before the deadline. Please review the notification"
+24,Multinomial Naive Bayes,0,0,Your library book is due on Friday. Please return it to the college library desk. Thank you.
+25,Multinomial Naive Bayes,1,1,Your subscription needs attention. Please validate your account now to prevent a temporary restriction. Please review the notification.
+26,Multinomial Naive Bayes,0,0,Your timetable for Tuesday has been updated. Please check the official student portal.
+27,Multinomial Naive Bayes,1,1,"Congratulations, you have been selected for a book voucher. Review the offer details before the deadline."
+28,Multinomial Naive Bayes,0,0,Thanks for submitting the Applied Mathematics assignment. Your submission receipt is available in the portal.
+29,Multinomial Naive Bayes,1,1,Payment notice: your student account is pending. Review the status using the official application.
+30,Multinomial Naive Bayes,0,0,Your appointment is scheduled for Friday at the end of the day. Contact the office using the number on its official site if you need to resc
+31,Multinomial Naive Bayes,1,1,"Security alert: a sign-in needs review. If this wasn't you, visit the known official site directly. Please review the notification."
+40,Multinomial Naive Bayes,0,0,"Hi, the Machine Learning assignment is due on Friday. Please upload your work to the college portal before 5 PM. Thank you."
+41,Multinomial Naive Bayes,1,1,URGENT: Your account is pending review. Verify your account details today to avoid interruption.
+42,Multinomial Naive Bayes,0,0,Reminder: our seminar begins at 2:30 PM. The agenda is available in the usual class group. Reference code 143.
+43,Multinomial Naive Bayes,1,1,Action required: subscription is under review. Confirm your details immediately through the official portal. Please review the notification.
+44,Multinomial Naive Bayes,0,0,Your library book is due on next week. Please return it to the college library desk.
+45,Multinomial Naive Bayes,1,1,Your account details needs attention. Please validate your account now to prevent a temporary restriction.
+46,Multinomial Naive Bayes,0,0,Your timetable for Monday has been updated. Please check the official student portal.
+47,Multinomial Naive Bayes,1,1,"Congratulations, you have been selected for a discount coupon. Review the offer details before the deadline."
+96,Multinomial Naive Bayes,0,0,Your order update is available in the retailer's official app. No action is required if you have already received it. Thank you. Reference c
+97,Multinomial Naive Bayes,1,1,Delivery update: address information may be incomplete. Check the tracking page you normally use. Please review the notification. Reference 
+98,Multinomial Naive Bayes,0,0,Please review the meeting notes attached in the team's normal workspace before tomorrow's discussion. Reference code 199.
+99,Multinomial Naive Bayes,1,1,Your subscription payment needs review. Open the official service app to view billing details. Reference code 200.
+100,Multinomial Naive Bayes,0,0,"Hi, the Applied Mathematics assignment is due on Friday. Please upload your work to the college portal before 2:30 PM."
+101,Multinomial Naive Bayes,1,1,URGENT: Your account is pending review. Verify your delivery details today to avoid interruption.
+102,Multinomial Naive Bayes,0,0,Reminder: our seminar begins at 10 AM. The agenda is available in the usual class group.
+103,Multinomial Naive Bayes,1,1,Action required: student account is under review. Confirm your details immediately through the official portal. Please review the notificati
+104,Multinomial Naive Bayes,0,0,Your library book is due on next week. Please return it to the college library desk. Thank you.
+105,Multinomial Naive Bayes,1,1,Your payment needs attention. Please validate your account now to prevent a temporary restriction. Reference code 206.
+106,Multinomial Naive Bayes,0,0,Your timetable for next week has been updated. Please check the official student portal. Reference code 207.
+107,Multinomial Naive Bayes,1,1,"Congratulations, you have been selected for a discount coupon. Review the offer details before the deadline. Reference code 208."
+108,Multinomial Naive Bayes,0,0,Thanks for submitting the Operating Systems assignment. Your submission receipt is available in the portal. Reference code 209.
+109,Multinomial Naive Bayes,1,1,Payment notice: your delivery details is pending. Review the status using the official application. Please review the notification.
+110,Multinomial Naive Bayes,0,0,Your appointment is scheduled for Friday at 10 AM. Contact the office using the number on its official site if you need to reschedule.
+111,Multinomial Naive Bayes,1,1,"Security alert: a sign-in needs review. If this wasn't you, visit the known official site directly. Reference code 212."
+248,Multinomial Naive Bayes,0,0,Thanks for submitting the Machine Learning assignment. Your submission receipt is available in the portal. Thank you.
+249,Multinomial Naive Bayes,1,1,Payment notice: your payment is pending. Review the status using the official application. Reference code 350.
+250,Multinomial Naive Bayes,0,0,Your appointment is scheduled for next week at 5 PM. Contact the office using the number on its official site if you need to reschedule.
+251,Multinomial Naive Bayes,1,1,"Security alert: a sign-in needs review. If this wasn't you, visit the known official site directly. Reference code 352."
+252,Multinomial Naive Bayes,0,0,Monthly statement is ready to view in your banking app. We will never ask you to share your PIN or OTP by message. Reference code 353.
+253,Multinomial Naive Bayes,1,1,Final reminder: your subscription request is incomplete. Check your account through the official app. Please review the notification. Refere
+254,Multinomial Naive Bayes,0,0,"We received a password reset request. If you initiated it, continue from the official website you opened yourself. Reference code 355."
+255,Multinomial Naive Bayes,1,1,Your mailbox storage is nearly full. Review storage settings from your organization's normal website. Reference code 356.
+264,Multinomial Naive Bayes,0,0,Your library book is due on Tuesday. Please return it to the college library desk. Thank you.
+265,Multinomial Naive Bayes,1,1,Your payment needs attention. Please validate your account now to prevent a temporary restriction. Please review the notification.
+266,Multinomial Naive Bayes,0,0,Your timetable for Wednesday has been updated. Please check the official student portal. Reference code 367.
+267,Multinomial Naive Bayes,1,1,"Congratulations, you have been selected for a book voucher. Review the offer details before the deadline. Reference code 368."
+268,Multinomial Naive Bayes,0,0,Thanks for submitting the Applied Mathematics assignment. Your submission receipt is available in the portal. Reference code 369.
+269,Multinomial Naive Bayes,1,1,Payment notice: your subscription is pending. Review the status using the official application.
+270,Multinomial Naive Bayes,0,0,Your appointment is scheduled for next week at 2:30 PM. Contact the office using the number on its official site if you need to reschedule.
+271,Multinomial Naive Bayes,1,1,"Security alert: a sign-in needs review. If this wasn't you, visit the known official site directly. Please review the notification. Referenc"
+288,Multinomial Naive Bayes,0,0,Thanks for submitting the Operating Systems assignment. Your submission receipt is available in the portal. Thank you. Reference code 389.
+289,Multinomial Naive Bayes,1,1,Payment notice: your student account is pending. Review the status using the official application. Please review the notification.
+290,Multinomial Naive Bayes,0,0,Your appointment is scheduled for Monday at 2:30 PM. Contact the office using the number on its official site if you need to reschedule.
+291,Multinomial Naive Bayes,1,1,"Security alert: a sign-in needs review. If this wasn't you, visit the known official site directly. Reference code 392."
+292,Multinomial Naive Bayes,0,0,Monthly statement is ready to view in your banking app. We will never ask you to share your PIN or OTP by message. Reference code 393.
+293,Multinomial Naive Bayes,1,1,Final reminder: your delivery details request is incomplete. Check your account through the official app.
+294,Multinomial Naive Bayes,0,0,"We received a password reset request. If you initiated it, continue from the official website you opened yourself. Reference code 395."
+295,Multinomial Naive Bayes,1,1,Your mailbox storage is nearly full. Review storage settings from your organization's normal website. Please review the notification. Refere
+360,Multinomial Naive Bayes,0,0,"Hi, the Operating Systems assignment is due on Friday. Please upload your work to the college portal before 10 AM. Thank you."
+361,Multinomial Naive Bayes,1,1,URGENT: Your account is under review. Verify your student account today to avoid interruption. Please review the notification.
+362,Multinomial Naive Bayes,0,0,Reminder: our study group begins at 2:30 PM. The agenda is available in the usual class group.
+363,Multinomial Naive Bayes,1,1,Action required: profile information is temporarily locked. Confirm your details immediately through the official portal.
+364,Multinomial Naive Bayes,0,0,Your library book is due on next week. Please return it to the college library desk. Reference code 465.
+365,Multinomial Naive Bayes,1,1,Your profile information needs attention. Please validate your account now to prevent a temporary restriction. Reference code 466.
+366,Multinomial Naive Bayes,0,0,Your timetable for Wednesday has been updated. Please check the official student portal. Reference code 467.
+367,Multinomial Naive Bayes,1,1,"Congratulations, you have been selected for a campus event pass. Review the offer details before the deadline. Please review the notificatio"
+368,Multinomial Naive Bayes,0,0,Thanks for submitting the Java assignment. Your submission receipt is available in the portal. Thank you. Reference code 469.
+369,Multinomial Naive Bayes,1,1,Payment notice: your student account is pending. Review the status using the official application. Reference code 470.
+370,Multinomial Naive Bayes,0,0,Your appointment is scheduled for next week at 5 PM. Contact the office using the number on its official site if you need to reschedule. Ref
+371,Multinomial Naive Bayes,1,1,"Security alert: a sign-in needs review. If this wasn't you, visit the known official site directly. Reference code 472."
+372,Multinomial Naive Bayes,0,0,Monthly statement is ready to view in your banking app. We will never ask you to share your PIN or OTP by message. Reference code 473.
+373,Multinomial Naive Bayes,1,1,Final reminder: your profile information request is incomplete. Check your account through the official app. Please review the notification.
+374,Multinomial Naive Bayes,0,0,"We received a password reset request. If you initiated it, continue from the official website you opened yourself. Reference code 475."
+375,Multinomial Naive Bayes,1,1,Your mailbox storage is nearly full. Review storage settings from your organization's normal website. Reference code 476.
+384,Multinomial Naive Bayes,0,0,Your library book is due on Friday. Please return it to the college library desk. Thank you. Reference code 485.
+385,Multinomial Naive Bayes,1,1,Your account details needs attention. Please validate your account now to prevent a temporary restriction. Please review the notification. R
+386,Multinomial Naive Bayes,0,0,Your timetable for next week has been updated. Please check the official student portal. Reference code 487.
+387,Multinomial Naive Bayes,1,1,"Congratulations, you have been selected for a membership offer. Review the offer details before the deadline. Reference code 488."
+388,Multinomial Naive Bayes,0,0,Thanks for submitting the Java assignment. Your submission receipt is available in the portal.
+389,Multinomial Naive Bayes,1,1,Payment notice: your subscription is pending. Review the status using the official application. Reference code 490.
+390,Multinomial Naive Bayes,0,0,Your appointment is scheduled for Tuesday at 2:30 PM. Contact the office using the number on its official site if you need to reschedule. Re
+391,Multinomial Naive Bayes,1,1,"Security alert: a sign-in needs review. If this wasn't you, visit the known official site directly. Please review the notification. Referenc"
+400,Multinomial Naive Bayes,0,0,"Hi, the Data Structures assignment is due on next week. Please upload your work to the college portal before 2:30 PM. Thank you."
+401,Multinomial Naive Bayes,1,1,URGENT: Your account is under review. Verify your payment today to avoid interruption.
+402,Multinomial Naive Bayes,0,0,Reminder: our team meeting begins at the end of the day. The agenda is available in the usual class group.
+403,Multinomial Naive Bayes,1,1,Action required: delivery details is awaiting confirmation. Confirm your details immediately through the official portal. Please review the 
+404,Multinomial Naive Bayes,0,0,Your library book is due on Friday. Please return it to the college library desk. Reference code 505.
+405,Multinomial Naive Bayes,1,1,Your account details needs attention. Please validate your account now to prevent a temporary restriction. Reference code 506.
+406,Multinomial Naive Bayes,0,0,Your timetable for Tuesday has been updated. Please check the official student portal. Reference code 507.
+407,Multinomial Naive Bayes,1,1,"Congratulations, you have been selected for a campus event pass. Review the offer details before the deadline. Reference code 508."
+416,Multinomial Naive Bayes,0,0,Your order update is available in the retailer's official app. No action is required if you have already received it. Thank you. Reference c
+417,Multinomial Naive Bayes,1,1,Delivery update: address information may be incomplete. Check the tracking page you normally use. Reference code 518.
+418,Multinomial Naive Bayes,0,0,Please review the meeting notes attached in the team's normal workspace before tomorrow's discussion. Reference code 519.
+419,Multinomial Naive Bayes,1,1,Your subscription payment needs review. Open the official service app to view billing details. Reference code 520.
+420,Multinomial Naive Bayes,0,0,"Hi, the Applied Mathematics assignment is due on next week. Please upload your work to the college portal before 5 PM."
+421,Multinomial Naive Bayes,1,1,URGENT: Your account is on hold. Verify your subscription today to avoid interruption. Please review the notification. Reference code 522.
+422,Multinomial Naive Bayes,0,0,Reminder: our study group begins at 2:30 PM. The agenda is available in the usual class group. Reference code 523.
+423,Multinomial Naive Bayes,1,1,Action required: subscription is awaiting confirmation. Confirm your details immediately through the official portal.
+432,Multinomial Naive Bayes,0,0,Monthly statement is ready to view in your banking app. We will never ask you to share your PIN or OTP by message. Thank you. Reference code
+433,Multinomial Naive Bayes,1,1,Final reminder: your account details request is incomplete. Check your account through the official app. Please review the notification.
+434,Multinomial Naive Bayes,0,0,"We received a password reset request. If you initiated it, continue from the official website you opened yourself. Reference code 535."
+435,Multinomial Naive Bayes,1,1,Your mailbox storage is nearly full. Review storage settings from your organization's normal website. Reference code 536.
+436,Multinomial Naive Bayes,0,0,Your order update is available in the retailer's official app. No action is required if you have already received it. Reference code 537.
+437,Multinomial Naive Bayes,1,1,Delivery update: address information may be incomplete. Check the tracking page you normally use. Reference code 538.
+438,Multinomial Naive Bayes,0,0,Please review the meeting notes attached in the team's normal workspace before tomorrow's discussion. Reference code 539.
+439,Multinomial Naive Bayes,1,1,Your subscription payment needs review. Open the official service app to view billing details. Please review the notification. Reference cod
+456,Multinomial Naive Bayes,0,0,Your order update is available in the retailer's official app. No action is required if you have already received it. Thank you. Reference c
+457,Multinomial Naive Bayes,1,1,Delivery update: address information may be incomplete. Check the tracking page you normally use. Please review the notification. Reference 
+458,Multinomial Naive Bayes,0,0,Please review the meeting notes attached in the team's normal workspace before tomorrow's discussion. Reference code 559.
+459,Multinomial Naive Bayes,1,1,Your subscription payment needs review. Open the official service app to view billing details. Reference code 560.
+460,Multinomial Naive Bayes,0,0,"Hi, the Operating Systems assignment is due on Tuesday. Please upload your work to the college portal before 2:30 PM."
+461,Multinomial Naive Bayes,1,1,URGENT: Your account is scheduled for suspension. Verify your delivery details today to avoid interruption.
+462,Multinomial Naive Bayes,0,0,Reminder: our project review begins at 2:30 PM. The agenda is available in the usual class group.
+463,Multinomial Naive Bayes,1,1,Action required: profile information is temporarily locked. Confirm your details immediately through the official portal. Please review the 

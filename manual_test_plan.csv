@@ -1,0 +1,9 @@
+test_id,scenario,expected_check
+T01,Legitimate college reminder,Review whether result is low and check false-positive behaviour
+T02,Suspicious account alert,Review whether urgent language and verification cues are surfaced
+T03,Unfamiliar wording,Check uncertainty and limitations
+T04,Empty message,App should request a message and not crash
+T05,Analyze multiple messages,Each scan should append a new active table row
+T06,Export active scan table,CSV download should contain the current session history
+T07,Reload app,Session history may reset; this is expected for this prototype
+T08,Offline links,Confirm no links are opened or fetched

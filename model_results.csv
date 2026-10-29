@@ -1,0 +1,4 @@
+model,accuracy,precision,recall,f1,false_positive_rate,test_rows,train_campaigns,test_campaigns
+Logistic Regression,1.0,1.0,1.0,1.0,0.0,120,45,15
+Multinomial Naive Bayes,1.0,1.0,1.0,1.0,0.0,120,45,15
+Rules Baseline,0.5166666666666667,1.0,0.03333333333333333,0.06451612903225806,0.0,120,45,15

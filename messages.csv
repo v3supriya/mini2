@@ -1,0 +1,481 @@
+message,label,campaign_group,channel
+"Hi, the Operating Systems assignment is due on Monday. Please upload your work to the college portal before the end of the day. Thank you.",0,campaign_000,Email
+URGENT: Your account is scheduled for suspension. Verify your profile information today to avoid interruption. Please review the notification.,1,campaign_000,Email
+Reminder: our seminar begins at 2:30 PM. The agenda is available in the usual class group.,0,campaign_000,Email
+Action required: profile information is on hold. Confirm your details immediately through the official portal.,1,campaign_000,Email
+Your library book is due on Wednesday. Please return it to the college library desk.,0,campaign_000,Campus portal
+Your payment needs attention. Please validate your account now to prevent a temporary restriction.,1,campaign_000,SMS
+Your timetable for next week has been updated. Please check the official student portal.,0,campaign_000,SMS
+"Congratulations, you have been selected for a membership offer. Review the offer details before the deadline. Please review the notification.",1,campaign_000,Email
+Thanks for submitting the Java assignment. Your submission receipt is available in the portal. Thank you.,0,campaign_001,SMS
+Payment notice: your account details is pending. Review the status using the official application.,1,campaign_001,Campus portal
+Your appointment is scheduled for next week at the end of the day. Contact the office using the number on its official site if you need to reschedule.,0,campaign_001,Email
+"Security alert: a sign-in needs review. If this wasn't you, visit the known official site directly.",1,campaign_001,Email
+Monthly statement is ready to view in your banking app. We will never ask you to share your PIN or OTP by message.,0,campaign_001,SMS
+Final reminder: your subscription request is incomplete. Check your account through the official app. Please review the notification.,1,campaign_001,SMS
+"We received a password reset request. If you initiated it, continue from the official website you opened yourself.",0,campaign_001,Email
+Your mailbox storage is nearly full. Review storage settings from your organization's normal website.,1,campaign_001,Campus portal
+Your order update is available in the retailer's official app. No action is required if you have already received it. Thank you.,0,campaign_002,SMS
+Delivery update: address information may be incomplete. Check the tracking page you normally use.,1,campaign_002,Email
+Please review the meeting notes attached in the team's normal workspace before tomorrow's discussion.,0,campaign_002,SMS
+Your subscription payment needs review. Open the official service app to view billing details. Please review the notification.,1,campaign_002,Email
+"Hi, the Applied Mathematics assignment is due on Monday. Please upload your work to the college portal before 10 AM.",0,campaign_002,Campus portal
+URGENT: Your account is pending review. Verify your subscription today to avoid interruption.,1,campaign_002,Campus portal
+Reminder: our project review begins at 5 PM. The agenda is available in the usual class group.,0,campaign_002,Email
+Action required: account details is on hold. Confirm your details immediately through the official portal.,1,campaign_002,Email
+Your library book is due on Friday. Please return it to the college library desk. Thank you.,0,campaign_003,Campus portal
+Your subscription needs attention. Please validate your account now to prevent a temporary restriction. Please review the notification.,1,campaign_003,Email
+Your timetable for Tuesday has been updated. Please check the official student portal.,0,campaign_003,Email
+"Congratulations, you have been selected for a book voucher. Review the offer details before the deadline.",1,campaign_003,Campus portal
+Thanks for submitting the Applied Mathematics assignment. Your submission receipt is available in the portal.,0,campaign_003,Email
+Payment notice: your student account is pending. Review the status using the official application.,1,campaign_003,Email
+Your appointment is scheduled for Friday at the end of the day. Contact the office using the number on its official site if you need to reschedule.,0,campaign_003,Email
+"Security alert: a sign-in needs review. If this wasn't you, visit the known official site directly. Please review the notification.",1,campaign_003,Campus portal
+Monthly statement is ready to view in your banking app. We will never ask you to share your PIN or OTP by message. Thank you.,0,campaign_004,Email
+Final reminder: your subscription request is incomplete. Check your account through the official app.,1,campaign_004,Campus portal
+"We received a password reset request. If you initiated it, continue from the official website you opened yourself. Reference code 135.",0,campaign_004,Campus portal
+Your mailbox storage is nearly full. Review storage settings from your organization's normal website. Reference code 136.,1,campaign_004,SMS
+Your order update is available in the retailer's official app. No action is required if you have already received it.,0,campaign_004,Campus portal
+Delivery update: address information may be incomplete. Check the tracking page you normally use. Please review the notification.,1,campaign_004,Email
+Please review the meeting notes attached in the team's normal workspace before tomorrow's discussion. Reference code 139.,0,campaign_004,Campus portal
+Your subscription payment needs review. Open the official service app to view billing details.,1,campaign_004,Email
+"Hi, the Machine Learning assignment is due on Friday. Please upload your work to the college portal before 5 PM. Thank you.",0,campaign_005,Campus portal
+URGENT: Your account is pending review. Verify your account details today to avoid interruption.,1,campaign_005,SMS
+Reminder: our seminar begins at 2:30 PM. The agenda is available in the usual class group. Reference code 143.,0,campaign_005,Campus portal
+Action required: subscription is under review. Confirm your details immediately through the official portal. Please review the notification.,1,campaign_005,Email
+Your library book is due on next week. Please return it to the college library desk.,0,campaign_005,SMS
+Your account details needs attention. Please validate your account now to prevent a temporary restriction.,1,campaign_005,SMS
+Your timetable for Monday has been updated. Please check the official student portal.,0,campaign_005,SMS
+"Congratulations, you have been selected for a discount coupon. Review the offer details before the deadline.",1,campaign_005,Email
+Thanks for submitting the Java assignment. Your submission receipt is available in the portal. Thank you. Reference code 149.,0,campaign_006,SMS
+Payment notice: your payment is pending. Review the status using the official application. Please review the notification.,1,campaign_006,Campus portal
+Your appointment is scheduled for next week at the end of the day. Contact the office using the number on its official site if you need to reschedule. Reference code 151.,0,campaign_006,Campus portal
+"Security alert: a sign-in needs review. If this wasn't you, visit the known official site directly. Reference code 152.",1,campaign_006,Campus portal
+Monthly statement is ready to view in your banking app. We will never ask you to share your PIN or OTP by message. Reference code 153.,0,campaign_006,Email
+Final reminder: your subscription request is incomplete. Check your account through the official app. Reference code 154.,1,campaign_006,Email
+"We received a password reset request. If you initiated it, continue from the official website you opened yourself. Reference code 155.",0,campaign_006,Campus portal
+Your mailbox storage is nearly full. Review storage settings from your organization's normal website. Please review the notification.,1,campaign_006,Email
+Your order update is available in the retailer's official app. No action is required if you have already received it. Thank you. Reference code 157.,0,campaign_007,Campus portal
+Delivery update: address information may be incomplete. Check the tracking page you normally use. Reference code 158.,1,campaign_007,Email
+Please review the meeting notes attached in the team's normal workspace before tomorrow's discussion. Reference code 159.,0,campaign_007,SMS
+Your subscription payment needs review. Open the official service app to view billing details. Reference code 160.,1,campaign_007,Email
+"Hi, the Operating Systems assignment is due on next week. Please upload your work to the college portal before 10 AM.",0,campaign_007,SMS
+URGENT: Your account is scheduled for suspension. Verify your delivery details today to avoid interruption. Please review the notification.,1,campaign_007,SMS
+Reminder: our project review begins at 10 AM. The agenda is available in the usual class group.,0,campaign_007,Campus portal
+Action required: subscription is temporarily locked. Confirm your details immediately through the official portal.,1,campaign_007,Email
+Your library book is due on Wednesday. Please return it to the college library desk. Thank you.,0,campaign_008,SMS
+Your profile information needs attention. Please validate your account now to prevent a temporary restriction.,1,campaign_008,SMS
+Your timetable for Wednesday has been updated. Please check the official student portal.,0,campaign_008,SMS
+"Congratulations, you have been selected for a library event ticket. Review the offer details before the deadline. Please review the notification.",1,campaign_008,Campus portal
+Thanks for submitting the Operating Systems assignment. Your submission receipt is available in the portal.,0,campaign_008,Campus portal
+Payment notice: your account details is pending. Review the status using the official application. Reference code 170.,1,campaign_008,SMS
+Your appointment is scheduled for Tuesday at 10 AM. Contact the office using the number on its official site if you need to reschedule.,0,campaign_008,SMS
+"Security alert: a sign-in needs review. If this wasn't you, visit the known official site directly. Reference code 172.",1,campaign_008,Campus portal
+Monthly statement is ready to view in your banking app. We will never ask you to share your PIN or OTP by message. Thank you. Reference code 173.,0,campaign_009,Email
+Final reminder: your profile information request is incomplete. Check your account through the official app. Please review the notification.,1,campaign_009,Campus portal
+"We received a password reset request. If you initiated it, continue from the official website you opened yourself. Reference code 175.",0,campaign_009,Email
+Your mailbox storage is nearly full. Review storage settings from your organization's normal website. Reference code 176.,1,campaign_009,SMS
+Your order update is available in the retailer's official app. No action is required if you have already received it. Reference code 177.,0,campaign_009,Campus portal
+Delivery update: address information may be incomplete. Check the tracking page you normally use. Reference code 178.,1,campaign_009,Campus portal
+Please review the meeting notes attached in the team's normal workspace before tomorrow's discussion. Reference code 179.,0,campaign_009,Email
+Your subscription payment needs review. Open the official service app to view billing details. Please review the notification. Reference code 180.,1,campaign_009,Campus portal
+"Hi, the Machine Learning assignment is due on Wednesday. Please upload your work to the college portal before 2:30 PM. Thank you.",0,campaign_010,Campus portal
+URGENT: Your account is on hold. Verify your payment today to avoid interruption.,1,campaign_010,Campus portal
+Reminder: our project review begins at 5 PM. The agenda is available in the usual class group. Reference code 183.,0,campaign_010,Email
+Action required: subscription is pending review. Confirm your details immediately through the official portal.,1,campaign_010,Campus portal
+Your library book is due on Tuesday. Please return it to the college library desk.,0,campaign_010,Campus portal
+Your student account needs attention. Please validate your account now to prevent a temporary restriction. Please review the notification.,1,campaign_010,SMS
+Your timetable for Monday has been updated. Please check the official student portal. Reference code 187.,0,campaign_010,Campus portal
+"Congratulations, you have been selected for a membership offer. Review the offer details before the deadline.",1,campaign_010,SMS
+Thanks for submitting the Java assignment. Your submission receipt is available in the portal. Thank you. Reference code 189.,0,campaign_011,SMS
+Payment notice: your account details is pending. Review the status using the official application. Reference code 190.,1,campaign_011,Campus portal
+Your appointment is scheduled for Tuesday at 2:30 PM. Contact the office using the number on its official site if you need to reschedule.,0,campaign_011,Email
+"Security alert: a sign-in needs review. If this wasn't you, visit the known official site directly. Please review the notification. Reference code 192.",1,campaign_011,Email
+Monthly statement is ready to view in your banking app. We will never ask you to share your PIN or OTP by message. Reference code 193.,0,campaign_011,SMS
+Final reminder: your payment request is incomplete. Check your account through the official app.,1,campaign_011,Email
+"We received a password reset request. If you initiated it, continue from the official website you opened yourself. Reference code 195.",0,campaign_011,SMS
+Your mailbox storage is nearly full. Review storage settings from your organization's normal website. Reference code 196.,1,campaign_011,Campus portal
+Your order update is available in the retailer's official app. No action is required if you have already received it. Thank you. Reference code 197.,0,campaign_012,Campus portal
+Delivery update: address information may be incomplete. Check the tracking page you normally use. Please review the notification. Reference code 198.,1,campaign_012,Campus portal
+Please review the meeting notes attached in the team's normal workspace before tomorrow's discussion. Reference code 199.,0,campaign_012,Campus portal
+Your subscription payment needs review. Open the official service app to view billing details. Reference code 200.,1,campaign_012,SMS
+"Hi, the Applied Mathematics assignment is due on Friday. Please upload your work to the college portal before 2:30 PM.",0,campaign_012,Email
+URGENT: Your account is pending review. Verify your delivery details today to avoid interruption.,1,campaign_012,Campus portal
+Reminder: our seminar begins at 10 AM. The agenda is available in the usual class group.,0,campaign_012,Email
+Action required: student account is under review. Confirm your details immediately through the official portal. Please review the notification.,1,campaign_012,Campus portal
+Your library book is due on next week. Please return it to the college library desk. Thank you.,0,campaign_013,SMS
+Your payment needs attention. Please validate your account now to prevent a temporary restriction. Reference code 206.,1,campaign_013,SMS
+Your timetable for next week has been updated. Please check the official student portal. Reference code 207.,0,campaign_013,Email
+"Congratulations, you have been selected for a discount coupon. Review the offer details before the deadline. Reference code 208.",1,campaign_013,SMS
+Thanks for submitting the Operating Systems assignment. Your submission receipt is available in the portal. Reference code 209.,0,campaign_013,Campus portal
+Payment notice: your delivery details is pending. Review the status using the official application. Please review the notification.,1,campaign_013,Email
+Your appointment is scheduled for Friday at 10 AM. Contact the office using the number on its official site if you need to reschedule.,0,campaign_013,SMS
+"Security alert: a sign-in needs review. If this wasn't you, visit the known official site directly. Reference code 212.",1,campaign_013,SMS
+Monthly statement is ready to view in your banking app. We will never ask you to share your PIN or OTP by message. Thank you. Reference code 213.,0,campaign_014,Campus portal
+Final reminder: your student account request is incomplete. Check your account through the official app.,1,campaign_014,Email
+"We received a password reset request. If you initiated it, continue from the official website you opened yourself. Reference code 215.",0,campaign_014,SMS
+Your mailbox storage is nearly full. Review storage settings from your organization's normal website. Please review the notification. Reference code 216.,1,campaign_014,Campus portal
+Your order update is available in the retailer's official app. No action is required if you have already received it. Reference code 217.,0,campaign_014,Campus portal
+Delivery update: address information may be incomplete. Check the tracking page you normally use. Reference code 218.,1,campaign_014,SMS
+Please review the meeting notes attached in the team's normal workspace before tomorrow's discussion. Reference code 219.,0,campaign_014,Campus portal
+Your subscription payment needs review. Open the official service app to view billing details. Reference code 220.,1,campaign_014,Email
+"Hi, the Data Structures assignment is due on Monday. Please upload your work to the college portal before 2:30 PM. Thank you.",0,campaign_015,Campus portal
+URGENT: Your account is scheduled for suspension. Verify your delivery details today to avoid interruption. Please review the notification. Reference code 222.,1,campaign_015,SMS
+Reminder: our seminar begins at 10 AM. The agenda is available in the usual class group. Reference code 223.,0,campaign_015,Campus portal
+Action required: delivery details is pending review. Confirm your details immediately through the official portal.,1,campaign_015,Email
+Your library book is due on Friday. Please return it to the college library desk.,0,campaign_015,Email
+Your student account needs attention. Please validate your account now to prevent a temporary restriction.,1,campaign_015,SMS
+Your timetable for next week has been updated. Please check the official student portal. Reference code 227.,0,campaign_015,SMS
+"Congratulations, you have been selected for a book voucher. Review the offer details before the deadline. Please review the notification.",1,campaign_015,Email
+Thanks for submitting the Operating Systems assignment. Your submission receipt is available in the portal. Thank you.,0,campaign_016,Email
+Payment notice: your student account is pending. Review the status using the official application. Reference code 230.,1,campaign_016,SMS
+Your appointment is scheduled for Friday at 2:30 PM. Contact the office using the number on its official site if you need to reschedule.,0,campaign_016,SMS
+"Security alert: a sign-in needs review. If this wasn't you, visit the known official site directly. Reference code 232.",1,campaign_016,Campus portal
+Monthly statement is ready to view in your banking app. We will never ask you to share your PIN or OTP by message. Reference code 233.,0,campaign_016,Email
+Final reminder: your subscription request is incomplete. Check your account through the official app. Please review the notification. Reference code 234.,1,campaign_016,Campus portal
+"We received a password reset request. If you initiated it, continue from the official website you opened yourself. Reference code 235.",0,campaign_016,Email
+Your mailbox storage is nearly full. Review storage settings from your organization's normal website. Reference code 236.,1,campaign_016,SMS
+Your order update is available in the retailer's official app. No action is required if you have already received it. Thank you. Reference code 237.,0,campaign_017,Email
+Delivery update: address information may be incomplete. Check the tracking page you normally use. Reference code 238.,1,campaign_017,Campus portal
+Please review the meeting notes attached in the team's normal workspace before tomorrow's discussion. Reference code 239.,0,campaign_017,SMS
+Your subscription payment needs review. Open the official service app to view billing details. Please review the notification. Reference code 240.,1,campaign_017,Email
+"Hi, the Operating Systems assignment is due on Friday. Please upload your work to the college portal before 2:30 PM.",0,campaign_017,Email
+URGENT: Your account is awaiting confirmation. Verify your profile information today to avoid interruption.,1,campaign_017,Campus portal
+Reminder: our team meeting begins at 2:30 PM. The agenda is available in the usual class group.,0,campaign_017,Email
+Action required: subscription is under review. Confirm your details immediately through the official portal.,1,campaign_017,SMS
+Your library book is due on Friday. Please return it to the college library desk. Thank you. Reference code 245.,0,campaign_018,Campus portal
+Your account details needs attention. Please validate your account now to prevent a temporary restriction. Please review the notification.,1,campaign_018,Campus portal
+Your timetable for next week has been updated. Please check the official student portal. Reference code 247.,0,campaign_018,Email
+"Congratulations, you have been selected for a book voucher. Review the offer details before the deadline. Reference code 248.",1,campaign_018,SMS
+Thanks for submitting the Data Structures assignment. Your submission receipt is available in the portal.,0,campaign_018,Campus portal
+Payment notice: your account details is pending. Review the status using the official application. Reference code 250.,1,campaign_018,Campus portal
+Your appointment is scheduled for Tuesday at 5 PM. Contact the office using the number on its official site if you need to reschedule.,0,campaign_018,SMS
+"Security alert: a sign-in needs review. If this wasn't you, visit the known official site directly. Please review the notification. Reference code 252.",1,campaign_018,SMS
+Monthly statement is ready to view in your banking app. We will never ask you to share your PIN or OTP by message. Thank you. Reference code 253.,0,campaign_019,SMS
+Final reminder: your account details request is incomplete. Check your account through the official app.,1,campaign_019,Campus portal
+"We received a password reset request. If you initiated it, continue from the official website you opened yourself. Reference code 255.",0,campaign_019,SMS
+Your mailbox storage is nearly full. Review storage settings from your organization's normal website. Reference code 256.,1,campaign_019,Email
+Your order update is available in the retailer's official app. No action is required if you have already received it. Reference code 257.,0,campaign_019,SMS
+Delivery update: address information may be incomplete. Check the tracking page you normally use. Please review the notification. Reference code 258.,1,campaign_019,Email
+Please review the meeting notes attached in the team's normal workspace before tomorrow's discussion. Reference code 259.,0,campaign_019,Email
+Your subscription payment needs review. Open the official service app to view billing details. Reference code 260.,1,campaign_019,Email
+"Hi, the Machine Learning assignment is due on next week. Please upload your work to the college portal before the end of the day. Thank you.",0,campaign_020,SMS
+URGENT: Your account is scheduled for suspension. Verify your student account today to avoid interruption.,1,campaign_020,SMS
+Reminder: our seminar begins at 2:30 PM. The agenda is available in the usual class group. Reference code 263.,0,campaign_020,SMS
+Action required: subscription is scheduled for suspension. Confirm your details immediately through the official portal. Please review the notification.,1,campaign_020,Campus portal
+Your library book is due on Wednesday. Please return it to the college library desk. Reference code 265.,0,campaign_020,Email
+Your profile information needs attention. Please validate your account now to prevent a temporary restriction. Reference code 266.,1,campaign_020,Campus portal
+Your timetable for Monday has been updated. Please check the official student portal. Reference code 267.,0,campaign_020,SMS
+"Congratulations, you have been selected for a discount coupon. Review the offer details before the deadline. Reference code 268.",1,campaign_020,Campus portal
+Thanks for submitting the Data Structures assignment. Your submission receipt is available in the portal. Thank you.,0,campaign_021,Campus portal
+Payment notice: your delivery details is pending. Review the status using the official application. Please review the notification. Reference code 270.,1,campaign_021,Campus portal
+Your appointment is scheduled for Wednesday at the end of the day. Contact the office using the number on its official site if you need to reschedule.,0,campaign_021,Email
+"Security alert: a sign-in needs review. If this wasn't you, visit the known official site directly. Reference code 272.",1,campaign_021,Email
+Monthly statement is ready to view in your banking app. We will never ask you to share your PIN or OTP by message. Reference code 273.,0,campaign_021,Email
+Final reminder: your profile information request is incomplete. Check your account through the official app.,1,campaign_021,Campus portal
+"We received a password reset request. If you initiated it, continue from the official website you opened yourself. Reference code 275.",0,campaign_021,Email
+Your mailbox storage is nearly full. Review storage settings from your organization's normal website. Please review the notification. Reference code 276.,1,campaign_021,Email
+Your order update is available in the retailer's official app. No action is required if you have already received it. Thank you. Reference code 277.,0,campaign_022,SMS
+Delivery update: address information may be incomplete. Check the tracking page you normally use. Reference code 278.,1,campaign_022,Email
+Please review the meeting notes attached in the team's normal workspace before tomorrow's discussion. Reference code 279.,0,campaign_022,SMS
+Your subscription payment needs review. Open the official service app to view billing details. Reference code 280.,1,campaign_022,Campus portal
+"Hi, the Operating Systems assignment is due on Wednesday. Please upload your work to the college portal before 2:30 PM.",0,campaign_022,Email
+URGENT: Your account is temporarily locked. Verify your payment today to avoid interruption. Please review the notification.,1,campaign_022,Campus portal
+Reminder: our team meeting begins at 5 PM. The agenda is available in the usual class group.,0,campaign_022,SMS
+Action required: delivery details is on hold. Confirm your details immediately through the official portal.,1,campaign_022,Email
+Your library book is due on Wednesday. Please return it to the college library desk. Thank you. Reference code 285.,0,campaign_023,Email
+Your payment needs attention. Please validate your account now to prevent a temporary restriction. Reference code 286.,1,campaign_023,Email
+Your timetable for Monday has been updated. Please check the official student portal. Reference code 287.,0,campaign_023,Campus portal
+"Congratulations, you have been selected for a book voucher. Review the offer details before the deadline. Please review the notification. Reference code 288.",1,campaign_023,Email
+Thanks for submitting the Operating Systems assignment. Your submission receipt is available in the portal. Reference code 289.,0,campaign_023,Campus portal
+Payment notice: your payment is pending. Review the status using the official application.,1,campaign_023,Campus portal
+Your appointment is scheduled for Wednesday at the end of the day. Contact the office using the number on its official site if you need to reschedule. Reference code 291.,0,campaign_023,SMS
+"Security alert: a sign-in needs review. If this wasn't you, visit the known official site directly. Reference code 292.",1,campaign_023,Campus portal
+Monthly statement is ready to view in your banking app. We will never ask you to share your PIN or OTP by message. Thank you. Reference code 293.,0,campaign_024,Campus portal
+Final reminder: your profile information request is incomplete. Check your account through the official app. Please review the notification. Reference code 294.,1,campaign_024,Email
+"We received a password reset request. If you initiated it, continue from the official website you opened yourself. Reference code 295.",0,campaign_024,Campus portal
+Your mailbox storage is nearly full. Review storage settings from your organization's normal website. Reference code 296.,1,campaign_024,SMS
+Your order update is available in the retailer's official app. No action is required if you have already received it. Reference code 297.,0,campaign_024,Campus portal
+Delivery update: address information may be incomplete. Check the tracking page you normally use. Reference code 298.,1,campaign_024,Campus portal
+Please review the meeting notes attached in the team's normal workspace before tomorrow's discussion. Reference code 299.,0,campaign_024,Campus portal
+Your subscription payment needs review. Open the official service app to view billing details. Please review the notification. Reference code 300.,1,campaign_024,Email
+"Hi, the Machine Learning assignment is due on Wednesday. Please upload your work to the college portal before 5 PM. Thank you.",0,campaign_025,Email
+URGENT: Your account is temporarily locked. Verify your delivery details today to avoid interruption.,1,campaign_025,SMS
+Reminder: our lab session begins at 10 AM. The agenda is available in the usual class group.,0,campaign_025,Email
+Action required: subscription is under review. Confirm your details immediately through the official portal. Reference code 304.,1,campaign_025,SMS
+Your library book is due on Monday. Please return it to the college library desk.,0,campaign_025,SMS
+Your subscription needs attention. Please validate your account now to prevent a temporary restriction. Please review the notification. Reference code 306.,1,campaign_025,Email
+Your timetable for next week has been updated. Please check the official student portal. Reference code 307.,0,campaign_025,Email
+"Congratulations, you have been selected for a library event ticket. Review the offer details before the deadline.",1,campaign_025,SMS
+Thanks for submitting the Operating Systems assignment. Your submission receipt is available in the portal. Thank you. Reference code 309.,0,campaign_026,SMS
+Payment notice: your delivery details is pending. Review the status using the official application.,1,campaign_026,SMS
+Your appointment is scheduled for Monday at the end of the day. Contact the office using the number on its official site if you need to reschedule.,0,campaign_026,SMS
+"Security alert: a sign-in needs review. If this wasn't you, visit the known official site directly. Please review the notification. Reference code 312.",1,campaign_026,Campus portal
+Monthly statement is ready to view in your banking app. We will never ask you to share your PIN or OTP by message. Reference code 313.,0,campaign_026,Campus portal
+Final reminder: your profile information request is incomplete. Check your account through the official app. Reference code 314.,1,campaign_026,SMS
+"We received a password reset request. If you initiated it, continue from the official website you opened yourself. Reference code 315.",0,campaign_026,Campus portal
+Your mailbox storage is nearly full. Review storage settings from your organization's normal website. Reference code 316.,1,campaign_026,Campus portal
+Your order update is available in the retailer's official app. No action is required if you have already received it. Thank you. Reference code 317.,0,campaign_027,SMS
+Delivery update: address information may be incomplete. Check the tracking page you normally use. Please review the notification. Reference code 318.,1,campaign_027,Email
+Please review the meeting notes attached in the team's normal workspace before tomorrow's discussion. Reference code 319.,0,campaign_027,Email
+Your subscription payment needs review. Open the official service app to view billing details. Reference code 320.,1,campaign_027,SMS
+"Hi, the Java assignment is due on Friday. Please upload your work to the college portal before 10 AM.",0,campaign_027,SMS
+URGENT: Your account is awaiting confirmation. Verify your account details today to avoid interruption.,1,campaign_027,Campus portal
+Reminder: our lab session begins at the end of the day. The agenda is available in the usual class group.,0,campaign_027,Email
+Action required: account details is under review. Confirm your details immediately through the official portal. Please review the notification.,1,campaign_027,Campus portal
+Your library book is due on next week. Please return it to the college library desk. Thank you. Reference code 325.,0,campaign_028,SMS
+Your account details needs attention. Please validate your account now to prevent a temporary restriction. Reference code 326.,1,campaign_028,Email
+Your timetable for next week has been updated. Please check the official student portal. Reference code 327.,0,campaign_028,Email
+"Congratulations, you have been selected for a campus event pass. Review the offer details before the deadline.",1,campaign_028,SMS
+Thanks for submitting the Machine Learning assignment. Your submission receipt is available in the portal.,0,campaign_028,Email
+Payment notice: your payment is pending. Review the status using the official application. Please review the notification. Reference code 330.,1,campaign_028,Email
+Your appointment is scheduled for Tuesday at the end of the day. Contact the office using the number on its official site if you need to reschedule.,0,campaign_028,SMS
+"Security alert: a sign-in needs review. If this wasn't you, visit the known official site directly. Reference code 332.",1,campaign_028,Email
+Monthly statement is ready to view in your banking app. We will never ask you to share your PIN or OTP by message. Thank you. Reference code 333.,0,campaign_029,SMS
+Final reminder: your account details request is incomplete. Check your account through the official app. Reference code 334.,1,campaign_029,SMS
+"We received a password reset request. If you initiated it, continue from the official website you opened yourself. Reference code 335.",0,campaign_029,Email
+Your mailbox storage is nearly full. Review storage settings from your organization's normal website. Please review the notification. Reference code 336.,1,campaign_029,Campus portal
+Your order update is available in the retailer's official app. No action is required if you have already received it. Reference code 337.,0,campaign_029,Campus portal
+Delivery update: address information may be incomplete. Check the tracking page you normally use. Reference code 338.,1,campaign_029,Email
+Please review the meeting notes attached in the team's normal workspace before tomorrow's discussion. Reference code 339.,0,campaign_029,Email
+Your subscription payment needs review. Open the official service app to view billing details. Reference code 340.,1,campaign_029,SMS
+"Hi, the Applied Mathematics assignment is due on next week. Please upload your work to the college portal before 2:30 PM. Thank you.",0,campaign_030,SMS
+URGENT: Your account is under review. Verify your payment today to avoid interruption. Please review the notification.,1,campaign_030,Email
+Reminder: our seminar begins at 10 AM. The agenda is available in the usual class group. Reference code 343.,0,campaign_030,SMS
+Action required: subscription is under review. Confirm your details immediately through the official portal. Reference code 344.,1,campaign_030,Campus portal
+Your library book is due on Monday. Please return it to the college library desk. Reference code 345.,0,campaign_030,SMS
+Your subscription needs attention. Please validate your account now to prevent a temporary restriction.,1,campaign_030,Email
+Your timetable for Friday has been updated. Please check the official student portal.,0,campaign_030,Email
+"Congratulations, you have been selected for a campus event pass. Review the offer details before the deadline. Please review the notification.",1,campaign_030,SMS
+Thanks for submitting the Machine Learning assignment. Your submission receipt is available in the portal. Thank you.,0,campaign_031,SMS
+Payment notice: your payment is pending. Review the status using the official application. Reference code 350.,1,campaign_031,SMS
+Your appointment is scheduled for next week at 5 PM. Contact the office using the number on its official site if you need to reschedule.,0,campaign_031,Email
+"Security alert: a sign-in needs review. If this wasn't you, visit the known official site directly. Reference code 352.",1,campaign_031,SMS
+Monthly statement is ready to view in your banking app. We will never ask you to share your PIN or OTP by message. Reference code 353.,0,campaign_031,SMS
+Final reminder: your subscription request is incomplete. Check your account through the official app. Please review the notification. Reference code 354.,1,campaign_031,Campus portal
+"We received a password reset request. If you initiated it, continue from the official website you opened yourself. Reference code 355.",0,campaign_031,Email
+Your mailbox storage is nearly full. Review storage settings from your organization's normal website. Reference code 356.,1,campaign_031,SMS
+Your order update is available in the retailer's official app. No action is required if you have already received it. Thank you. Reference code 357.,0,campaign_032,SMS
+Delivery update: address information may be incomplete. Check the tracking page you normally use. Reference code 358.,1,campaign_032,Campus portal
+Please review the meeting notes attached in the team's normal workspace before tomorrow's discussion. Reference code 359.,0,campaign_032,Email
+Your subscription payment needs review. Open the official service app to view billing details. Please review the notification. Reference code 360.,1,campaign_032,Campus portal
+"Hi, the Data Structures assignment is due on Tuesday. Please upload your work to the college portal before 2:30 PM.",0,campaign_032,Campus portal
+URGENT: Your account is temporarily locked. Verify your profile information today to avoid interruption.,1,campaign_032,Email
+Reminder: our lab session begins at 10 AM. The agenda is available in the usual class group. Reference code 363.,0,campaign_032,Campus portal
+Action required: account details is under review. Confirm your details immediately through the official portal.,1,campaign_032,SMS
+Your library book is due on Tuesday. Please return it to the college library desk. Thank you.,0,campaign_033,SMS
+Your payment needs attention. Please validate your account now to prevent a temporary restriction. Please review the notification.,1,campaign_033,Email
+Your timetable for Wednesday has been updated. Please check the official student portal. Reference code 367.,0,campaign_033,Campus portal
+"Congratulations, you have been selected for a book voucher. Review the offer details before the deadline. Reference code 368.",1,campaign_033,SMS
+Thanks for submitting the Applied Mathematics assignment. Your submission receipt is available in the portal. Reference code 369.,0,campaign_033,SMS
+Payment notice: your subscription is pending. Review the status using the official application.,1,campaign_033,Email
+Your appointment is scheduled for next week at 2:30 PM. Contact the office using the number on its official site if you need to reschedule.,0,campaign_033,Email
+"Security alert: a sign-in needs review. If this wasn't you, visit the known official site directly. Please review the notification. Reference code 372.",1,campaign_033,Email
+Monthly statement is ready to view in your banking app. We will never ask you to share your PIN or OTP by message. Thank you. Reference code 373.,0,campaign_034,SMS
+Final reminder: your student account request is incomplete. Check your account through the official app. Reference code 374.,1,campaign_034,Campus portal
+"We received a password reset request. If you initiated it, continue from the official website you opened yourself. Reference code 375.",0,campaign_034,SMS
+Your mailbox storage is nearly full. Review storage settings from your organization's normal website. Reference code 376.,1,campaign_034,SMS
+Your order update is available in the retailer's official app. No action is required if you have already received it. Reference code 377.,0,campaign_034,Campus portal
+Delivery update: address information may be incomplete. Check the tracking page you normally use. Please review the notification. Reference code 378.,1,campaign_034,SMS
+Please review the meeting notes attached in the team's normal workspace before tomorrow's discussion. Reference code 379.,0,campaign_034,Email
+Your subscription payment needs review. Open the official service app to view billing details. Reference code 380.,1,campaign_034,SMS
+"Hi, the Machine Learning assignment is due on Tuesday. Please upload your work to the college portal before the end of the day. Thank you.",0,campaign_035,SMS
+URGENT: Your account is on hold. Verify your payment today to avoid interruption. Reference code 382.,1,campaign_035,Campus portal
+Reminder: our project review begins at 10 AM. The agenda is available in the usual class group. Reference code 383.,0,campaign_035,Campus portal
+Action required: delivery details is temporarily locked. Confirm your details immediately through the official portal. Please review the notification.,1,campaign_035,Campus portal
+Your library book is due on next week. Please return it to the college library desk. Reference code 385.,0,campaign_035,SMS
+Your payment needs attention. Please validate your account now to prevent a temporary restriction. Reference code 386.,1,campaign_035,Email
+Your timetable for Wednesday has been updated. Please check the official student portal. Reference code 387.,0,campaign_035,Campus portal
+"Congratulations, you have been selected for a discount coupon. Review the offer details before the deadline. Reference code 388.",1,campaign_035,Campus portal
+Thanks for submitting the Operating Systems assignment. Your submission receipt is available in the portal. Thank you. Reference code 389.,0,campaign_036,Campus portal
+Payment notice: your student account is pending. Review the status using the official application. Please review the notification.,1,campaign_036,SMS
+Your appointment is scheduled for Monday at 2:30 PM. Contact the office using the number on its official site if you need to reschedule.,0,campaign_036,Campus portal
+"Security alert: a sign-in needs review. If this wasn't you, visit the known official site directly. Reference code 392.",1,campaign_036,SMS
+Monthly statement is ready to view in your banking app. We will never ask you to share your PIN or OTP by message. Reference code 393.,0,campaign_036,Campus portal
+Final reminder: your delivery details request is incomplete. Check your account through the official app.,1,campaign_036,Email
+"We received a password reset request. If you initiated it, continue from the official website you opened yourself. Reference code 395.",0,campaign_036,SMS
+Your mailbox storage is nearly full. Review storage settings from your organization's normal website. Please review the notification. Reference code 396.,1,campaign_036,Email
+Your order update is available in the retailer's official app. No action is required if you have already received it. Thank you. Reference code 397.,0,campaign_037,Email
+Delivery update: address information may be incomplete. Check the tracking page you normally use. Reference code 398.,1,campaign_037,Email
+Please review the meeting notes attached in the team's normal workspace before tomorrow's discussion. Reference code 399.,0,campaign_037,Campus portal
+Your subscription payment needs review. Open the official service app to view billing details. Reference code 400.,1,campaign_037,Campus portal
+"Hi, the Data Structures assignment is due on Wednesday. Please upload your work to the college portal before 10 AM.",0,campaign_037,Campus portal
+URGENT: Your account is on hold. Verify your subscription today to avoid interruption. Please review the notification.,1,campaign_037,Campus portal
+Reminder: our seminar begins at 10 AM. The agenda is available in the usual class group. Reference code 403.,0,campaign_037,Campus portal
+Action required: payment is temporarily locked. Confirm your details immediately through the official portal.,1,campaign_037,Email
+Your library book is due on next week. Please return it to the college library desk. Thank you. Reference code 405.,0,campaign_038,Campus portal
+Your payment needs attention. Please validate your account now to prevent a temporary restriction. Reference code 406.,1,campaign_038,Campus portal
+Your timetable for Tuesday has been updated. Please check the official student portal. Reference code 407.,0,campaign_038,SMS
+"Congratulations, you have been selected for a book voucher. Review the offer details before the deadline. Please review the notification. Reference code 408.",1,campaign_038,SMS
+Thanks for submitting the Data Structures assignment. Your submission receipt is available in the portal. Reference code 409.,0,campaign_038,SMS
+Payment notice: your student account is pending. Review the status using the official application. Reference code 410.,1,campaign_038,SMS
+Your appointment is scheduled for Monday at 2:30 PM. Contact the office using the number on its official site if you need to reschedule. Reference code 411.,0,campaign_038,SMS
+"Security alert: a sign-in needs review. If this wasn't you, visit the known official site directly. Reference code 412.",1,campaign_038,Campus portal
+Monthly statement is ready to view in your banking app. We will never ask you to share your PIN or OTP by message. Thank you. Reference code 413.,0,campaign_039,Campus portal
+Final reminder: your student account request is incomplete. Check your account through the official app. Please review the notification.,1,campaign_039,Campus portal
+"We received a password reset request. If you initiated it, continue from the official website you opened yourself. Reference code 415.",0,campaign_039,Email
+Your mailbox storage is nearly full. Review storage settings from your organization's normal website. Reference code 416.,1,campaign_039,SMS
+Your order update is available in the retailer's official app. No action is required if you have already received it. Reference code 417.,0,campaign_039,Campus portal
+Delivery update: address information may be incomplete. Check the tracking page you normally use. Reference code 418.,1,campaign_039,SMS
+Please review the meeting notes attached in the team's normal workspace before tomorrow's discussion. Reference code 419.,0,campaign_039,Campus portal
+Your subscription payment needs review. Open the official service app to view billing details. Please review the notification. Reference code 420.,1,campaign_039,SMS
+"Hi, the Applied Mathematics assignment is due on Tuesday. Please upload your work to the college portal before 5 PM. Thank you.",0,campaign_040,SMS
+URGENT: Your account is awaiting confirmation. Verify your account details today to avoid interruption. Reference code 422.,1,campaign_040,Campus portal
+Reminder: our project review begins at 5 PM. The agenda is available in the usual class group. Reference code 423.,0,campaign_040,SMS
+Action required: student account is on hold. Confirm your details immediately through the official portal.,1,campaign_040,Campus portal
+Your library book is due on Tuesday. Please return it to the college library desk. Reference code 425.,0,campaign_040,Email
+Your student account needs attention. Please validate your account now to prevent a temporary restriction. Please review the notification. Reference code 426.,1,campaign_040,SMS
+Your timetable for next week has been updated. Please check the official student portal. Reference code 427.,0,campaign_040,Email
+"Congratulations, you have been selected for a library event ticket. Review the offer details before the deadline. Reference code 428.",1,campaign_040,SMS
+Thanks for submitting the Applied Mathematics assignment. Your submission receipt is available in the portal. Thank you.,0,campaign_041,Campus portal
+Payment notice: your student account is pending. Review the status using the official application. Reference code 430.,1,campaign_041,Campus portal
+Your appointment is scheduled for Tuesday at the end of the day. Contact the office using the number on its official site if you need to reschedule. Reference code 431.,0,campaign_041,Email
+"Security alert: a sign-in needs review. If this wasn't you, visit the known official site directly. Please review the notification. Reference code 432.",1,campaign_041,Email
+Monthly statement is ready to view in your banking app. We will never ask you to share your PIN or OTP by message. Reference code 433.,0,campaign_041,SMS
+Final reminder: your subscription request is incomplete. Check your account through the official app. Reference code 434.,1,campaign_041,Email
+"We received a password reset request. If you initiated it, continue from the official website you opened yourself. Reference code 435.",0,campaign_041,Campus portal
+Your mailbox storage is nearly full. Review storage settings from your organization's normal website. Reference code 436.,1,campaign_041,Campus portal
+Your order update is available in the retailer's official app. No action is required if you have already received it. Thank you. Reference code 437.,0,campaign_042,SMS
+Delivery update: address information may be incomplete. Check the tracking page you normally use. Please review the notification. Reference code 438.,1,campaign_042,Email
+Please review the meeting notes attached in the team's normal workspace before tomorrow's discussion. Reference code 439.,0,campaign_042,Email
+Your subscription payment needs review. Open the official service app to view billing details. Reference code 440.,1,campaign_042,Campus portal
+"Hi, the Java assignment is due on Tuesday. Please upload your work to the college portal before 10 AM.",0,campaign_042,Email
+URGENT: Your account is under review. Verify your profile information today to avoid interruption.,1,campaign_042,Email
+Reminder: our project review begins at 10 AM. The agenda is available in the usual class group. Reference code 443.,0,campaign_042,Campus portal
+Action required: payment is on hold. Confirm your details immediately through the official portal. Please review the notification.,1,campaign_042,Campus portal
+Your library book is due on Friday. Please return it to the college library desk. Thank you. Reference code 445.,0,campaign_043,SMS
+Your profile information needs attention. Please validate your account now to prevent a temporary restriction. Reference code 446.,1,campaign_043,Campus portal
+Your timetable for Friday has been updated. Please check the official student portal. Reference code 447.,0,campaign_043,SMS
+"Congratulations, you have been selected for a library event ticket. Review the offer details before the deadline. Reference code 448.",1,campaign_043,SMS
+Thanks for submitting the Operating Systems assignment. Your submission receipt is available in the portal. Reference code 449.,0,campaign_043,Campus portal
+Payment notice: your profile information is pending. Review the status using the official application. Please review the notification.,1,campaign_043,Campus portal
+Your appointment is scheduled for next week at 5 PM. Contact the office using the number on its official site if you need to reschedule. Reference code 451.,0,campaign_043,SMS
+"Security alert: a sign-in needs review. If this wasn't you, visit the known official site directly. Reference code 452.",1,campaign_043,SMS
+Monthly statement is ready to view in your banking app. We will never ask you to share your PIN or OTP by message. Thank you. Reference code 453.,0,campaign_044,Campus portal
+Final reminder: your student account request is incomplete. Check your account through the official app. Reference code 454.,1,campaign_044,Campus portal
+"We received a password reset request. If you initiated it, continue from the official website you opened yourself. Reference code 455.",0,campaign_044,SMS
+Your mailbox storage is nearly full. Review storage settings from your organization's normal website. Please review the notification. Reference code 456.,1,campaign_044,SMS
+Your order update is available in the retailer's official app. No action is required if you have already received it. Reference code 457.,0,campaign_044,Email
+Delivery update: address information may be incomplete. Check the tracking page you normally use. Reference code 458.,1,campaign_044,Email
+Please review the meeting notes attached in the team's normal workspace before tomorrow's discussion. Reference code 459.,0,campaign_044,Email
+Your subscription payment needs review. Open the official service app to view billing details. Reference code 460.,1,campaign_044,Email
+"Hi, the Operating Systems assignment is due on Friday. Please upload your work to the college portal before 10 AM. Thank you.",0,campaign_045,SMS
+URGENT: Your account is under review. Verify your student account today to avoid interruption. Please review the notification.,1,campaign_045,Campus portal
+Reminder: our study group begins at 2:30 PM. The agenda is available in the usual class group.,0,campaign_045,Email
+Action required: profile information is temporarily locked. Confirm your details immediately through the official portal.,1,campaign_045,Campus portal
+Your library book is due on next week. Please return it to the college library desk. Reference code 465.,0,campaign_045,Campus portal
+Your profile information needs attention. Please validate your account now to prevent a temporary restriction. Reference code 466.,1,campaign_045,Campus portal
+Your timetable for Wednesday has been updated. Please check the official student portal. Reference code 467.,0,campaign_045,Email
+"Congratulations, you have been selected for a campus event pass. Review the offer details before the deadline. Please review the notification. Reference code 468.",1,campaign_045,Email
+Thanks for submitting the Java assignment. Your submission receipt is available in the portal. Thank you. Reference code 469.,0,campaign_046,Campus portal
+Payment notice: your student account is pending. Review the status using the official application. Reference code 470.,1,campaign_046,SMS
+Your appointment is scheduled for next week at 5 PM. Contact the office using the number on its official site if you need to reschedule. Reference code 471.,0,campaign_046,Campus portal
+"Security alert: a sign-in needs review. If this wasn't you, visit the known official site directly. Reference code 472.",1,campaign_046,Email
+Monthly statement is ready to view in your banking app. We will never ask you to share your PIN or OTP by message. Reference code 473.,0,campaign_046,Campus portal
+Final reminder: your profile information request is incomplete. Check your account through the official app. Please review the notification. Reference code 474.,1,campaign_046,Email
+"We received a password reset request. If you initiated it, continue from the official website you opened yourself. Reference code 475.",0,campaign_046,Campus portal
+Your mailbox storage is nearly full. Review storage settings from your organization's normal website. Reference code 476.,1,campaign_046,Campus portal
+Your order update is available in the retailer's official app. No action is required if you have already received it. Thank you. Reference code 477.,0,campaign_047,Email
+Delivery update: address information may be incomplete. Check the tracking page you normally use. Reference code 478.,1,campaign_047,SMS
+Please review the meeting notes attached in the team's normal workspace before tomorrow's discussion. Reference code 479.,0,campaign_047,Campus portal
+Your subscription payment needs review. Open the official service app to view billing details. Please review the notification. Reference code 480.,1,campaign_047,SMS
+"Hi, the Applied Mathematics assignment is due on Tuesday. Please upload your work to the college portal before 5 PM.",0,campaign_047,Campus portal
+URGENT: Your account is awaiting confirmation. Verify your profile information today to avoid interruption. Reference code 482.,1,campaign_047,Email
+Reminder: our study group begins at 2:30 PM. The agenda is available in the usual class group. Reference code 483.,0,campaign_047,Email
+Action required: payment is under review. Confirm your details immediately through the official portal.,1,campaign_047,Campus portal
+Your library book is due on Friday. Please return it to the college library desk. Thank you. Reference code 485.,0,campaign_048,SMS
+Your account details needs attention. Please validate your account now to prevent a temporary restriction. Please review the notification. Reference code 486.,1,campaign_048,Campus portal
+Your timetable for next week has been updated. Please check the official student portal. Reference code 487.,0,campaign_048,SMS
+"Congratulations, you have been selected for a membership offer. Review the offer details before the deadline. Reference code 488.",1,campaign_048,Email
+Thanks for submitting the Java assignment. Your submission receipt is available in the portal.,0,campaign_048,SMS
+Payment notice: your subscription is pending. Review the status using the official application. Reference code 490.,1,campaign_048,Email
+Your appointment is scheduled for Tuesday at 2:30 PM. Contact the office using the number on its official site if you need to reschedule. Reference code 491.,0,campaign_048,Email
+"Security alert: a sign-in needs review. If this wasn't you, visit the known official site directly. Please review the notification. Reference code 492.",1,campaign_048,SMS
+Monthly statement is ready to view in your banking app. We will never ask you to share your PIN or OTP by message. Thank you. Reference code 493.,0,campaign_049,Email
+Final reminder: your account details request is incomplete. Check your account through the official app. Reference code 494.,1,campaign_049,Email
+"We received a password reset request. If you initiated it, continue from the official website you opened yourself. Reference code 495.",0,campaign_049,Campus portal
+Your mailbox storage is nearly full. Review storage settings from your organization's normal website. Reference code 496.,1,campaign_049,Campus portal
+Your order update is available in the retailer's official app. No action is required if you have already received it. Reference code 497.,0,campaign_049,Campus portal
+Delivery update: address information may be incomplete. Check the tracking page you normally use. Please review the notification. Reference code 498.,1,campaign_049,Email
+Please review the meeting notes attached in the team's normal workspace before tomorrow's discussion. Reference code 499.,0,campaign_049,Campus portal
+Your subscription payment needs review. Open the official service app to view billing details. Reference code 500.,1,campaign_049,Campus portal
+"Hi, the Data Structures assignment is due on next week. Please upload your work to the college portal before 2:30 PM. Thank you.",0,campaign_050,SMS
+URGENT: Your account is under review. Verify your payment today to avoid interruption.,1,campaign_050,Campus portal
+Reminder: our team meeting begins at the end of the day. The agenda is available in the usual class group.,0,campaign_050,SMS
+Action required: delivery details is awaiting confirmation. Confirm your details immediately through the official portal. Please review the notification.,1,campaign_050,Campus portal
+Your library book is due on Friday. Please return it to the college library desk. Reference code 505.,0,campaign_050,Campus portal
+Your account details needs attention. Please validate your account now to prevent a temporary restriction. Reference code 506.,1,campaign_050,Campus portal
+Your timetable for Tuesday has been updated. Please check the official student portal. Reference code 507.,0,campaign_050,Email
+"Congratulations, you have been selected for a campus event pass. Review the offer details before the deadline. Reference code 508.",1,campaign_050,SMS
+Thanks for submitting the Machine Learning assignment. Your submission receipt is available in the portal. Thank you. Reference code 509.,0,campaign_051,SMS
+Payment notice: your delivery details is pending. Review the status using the official application. Please review the notification. Reference code 510.,1,campaign_051,Campus portal
+Your appointment is scheduled for Tuesday at 5 PM. Contact the office using the number on its official site if you need to reschedule. Reference code 511.,0,campaign_051,Campus portal
+"Security alert: a sign-in needs review. If this wasn't you, visit the known official site directly. Reference code 512.",1,campaign_051,SMS
+Monthly statement is ready to view in your banking app. We will never ask you to share your PIN or OTP by message. Reference code 513.,0,campaign_051,Campus portal
+Final reminder: your profile information request is incomplete. Check your account through the official app. Reference code 514.,1,campaign_051,Campus portal
+"We received a password reset request. If you initiated it, continue from the official website you opened yourself. Reference code 515.",0,campaign_051,Email
+Your mailbox storage is nearly full. Review storage settings from your organization's normal website. Please review the notification. Reference code 516.,1,campaign_051,Email
+Your order update is available in the retailer's official app. No action is required if you have already received it. Thank you. Reference code 517.,0,campaign_052,Campus portal
+Delivery update: address information may be incomplete. Check the tracking page you normally use. Reference code 518.,1,campaign_052,Email
+Please review the meeting notes attached in the team's normal workspace before tomorrow's discussion. Reference code 519.,0,campaign_052,Campus portal
+Your subscription payment needs review. Open the official service app to view billing details. Reference code 520.,1,campaign_052,SMS
+"Hi, the Applied Mathematics assignment is due on next week. Please upload your work to the college portal before 5 PM.",0,campaign_052,Email
+URGENT: Your account is on hold. Verify your subscription today to avoid interruption. Please review the notification. Reference code 522.,1,campaign_052,Email
+Reminder: our study group begins at 2:30 PM. The agenda is available in the usual class group. Reference code 523.,0,campaign_052,SMS
+Action required: subscription is awaiting confirmation. Confirm your details immediately through the official portal.,1,campaign_052,Email
+Your library book is due on Monday. Please return it to the college library desk. Thank you.,0,campaign_053,SMS
+Your subscription needs attention. Please validate your account now to prevent a temporary restriction. Reference code 526.,1,campaign_053,SMS
+Your timetable for Wednesday has been updated. Please check the official student portal. Reference code 527.,0,campaign_053,SMS
+"Congratulations, you have been selected for a membership offer. Review the offer details before the deadline. Please review the notification. Reference code 528.",1,campaign_053,SMS
+Thanks for submitting the Java assignment. Your submission receipt is available in the portal. Reference code 529.,0,campaign_053,Campus portal
+Payment notice: your account details is pending. Review the status using the official application. Reference code 530.,1,campaign_053,Campus portal
+Your appointment is scheduled for Tuesday at 5 PM. Contact the office using the number on its official site if you need to reschedule. Reference code 531.,0,campaign_053,Campus portal
+"Security alert: a sign-in needs review. If this wasn't you, visit the known official site directly. Reference code 532.",1,campaign_053,Campus portal
+Monthly statement is ready to view in your banking app. We will never ask you to share your PIN or OTP by message. Thank you. Reference code 533.,0,campaign_054,SMS
+Final reminder: your account details request is incomplete. Check your account through the official app. Please review the notification.,1,campaign_054,SMS
+"We received a password reset request. If you initiated it, continue from the official website you opened yourself. Reference code 535.",0,campaign_054,Email
+Your mailbox storage is nearly full. Review storage settings from your organization's normal website. Reference code 536.,1,campaign_054,Campus portal
+Your order update is available in the retailer's official app. No action is required if you have already received it. Reference code 537.,0,campaign_054,Campus portal
+Delivery update: address information may be incomplete. Check the tracking page you normally use. Reference code 538.,1,campaign_054,Email
+Please review the meeting notes attached in the team's normal workspace before tomorrow's discussion. Reference code 539.,0,campaign_054,Email
+Your subscription payment needs review. Open the official service app to view billing details. Please review the notification. Reference code 540.,1,campaign_054,Email
+"Hi, the Operating Systems assignment is due on Tuesday. Please upload your work to the college portal before the end of the day. Thank you.",0,campaign_055,SMS
+URGENT: Your account is on hold. Verify your subscription today to avoid interruption.,1,campaign_055,Campus portal
+Reminder: our study group begins at the end of the day. The agenda is available in the usual class group.,0,campaign_055,Campus portal
+Action required: subscription is pending review. Confirm your details immediately through the official portal. Reference code 544.,1,campaign_055,SMS
+Your library book is due on Monday. Please return it to the college library desk. Reference code 545.,0,campaign_055,Campus portal
+Your student account needs attention. Please validate your account now to prevent a temporary restriction. Please review the notification. Reference code 546.,1,campaign_055,Campus portal
+Your timetable for Wednesday has been updated. Please check the official student portal. Reference code 547.,0,campaign_055,SMS
+"Congratulations, you have been selected for a library event ticket. Review the offer details before the deadline. Reference code 548.",1,campaign_055,Email
+Thanks for submitting the Data Structures assignment. Your submission receipt is available in the portal. Thank you. Reference code 549.,0,campaign_056,Campus portal
+Payment notice: your payment is pending. Review the status using the official application. Reference code 550.,1,campaign_056,Email
+Your appointment is scheduled for Tuesday at 2:30 PM. Contact the office using the number on its official site if you need to reschedule. Reference code 551.,0,campaign_056,Email
+"Security alert: a sign-in needs review. If this wasn't you, visit the known official site directly. Please review the notification. Reference code 552.",1,campaign_056,Email
+Monthly statement is ready to view in your banking app. We will never ask you to share your PIN or OTP by message. Reference code 553.,0,campaign_056,Email
+Final reminder: your student account request is incomplete. Check your account through the official app. Reference code 554.,1,campaign_056,Campus portal
+"We received a password reset request. If you initiated it, continue from the official website you opened yourself. Reference code 555.",0,campaign_056,SMS
+Your mailbox storage is nearly full. Review storage settings from your organization's normal website. Reference code 556.,1,campaign_056,Email
+Your order update is available in the retailer's official app. No action is required if you have already received it. Thank you. Reference code 557.,0,campaign_057,SMS
+Delivery update: address information may be incomplete. Check the tracking page you normally use. Please review the notification. Reference code 558.,1,campaign_057,SMS
+Please review the meeting notes attached in the team's normal workspace before tomorrow's discussion. Reference code 559.,0,campaign_057,Campus portal
+Your subscription payment needs review. Open the official service app to view billing details. Reference code 560.,1,campaign_057,Campus portal
+"Hi, the Operating Systems assignment is due on Tuesday. Please upload your work to the college portal before 2:30 PM.",0,campaign_057,Campus portal
+URGENT: Your account is scheduled for suspension. Verify your delivery details today to avoid interruption.,1,campaign_057,SMS
+Reminder: our project review begins at 2:30 PM. The agenda is available in the usual class group.,0,campaign_057,SMS
+Action required: profile information is temporarily locked. Confirm your details immediately through the official portal. Please review the notification.,1,campaign_057,SMS
+Your library book is due on Friday. Please return it to the college library desk. Thank you. Reference code 565.,0,campaign_058,SMS
+Your subscription needs attention. Please validate your account now to prevent a temporary restriction. Reference code 566.,1,campaign_058,Campus portal
+Your timetable for Monday has been updated. Please check the official student portal. Reference code 567.,0,campaign_058,Campus portal
+"Congratulations, you have been selected for a book voucher. Review the offer details before the deadline. Reference code 568.",1,campaign_058,Campus portal
+Thanks for submitting the Data Structures assignment. Your submission receipt is available in the portal. Reference code 569.,0,campaign_058,SMS
+Payment notice: your student account is pending. Review the status using the official application. Please review the notification. Reference code 570.,1,campaign_058,Campus portal
+Your appointment is scheduled for Tuesday at 2:30 PM. Contact the office using the number on its official site if you need to reschedule. Reference code 571.,0,campaign_058,SMS
+"Security alert: a sign-in needs review. If this wasn't you, visit the known official site directly. Reference code 572.",1,campaign_058,SMS
+Monthly statement is ready to view in your banking app. We will never ask you to share your PIN or OTP by message. Thank you. Reference code 573.,0,campaign_059,Campus portal
+Final reminder: your payment request is incomplete. Check your account through the official app. Reference code 574.,1,campaign_059,SMS
+"We received a password reset request. If you initiated it, continue from the official website you opened yourself. Reference code 575.",0,campaign_059,SMS
+Your mailbox storage is nearly full. Review storage settings from your organization's normal website. Please review the notification. Reference code 576.,1,campaign_059,SMS
+Your order update is available in the retailer's official app. No action is required if you have already received it. Reference code 577.,0,campaign_059,Campus portal
+Delivery update: address information may be incomplete. Check the tracking page you normally use. Reference code 578.,1,campaign_059,SMS
+Please review the meeting notes attached in the team's normal workspace before tomorrow's discussion. Reference code 579.,0,campaign_059,Campus portal
+Your subscription payment needs review. Open the official service app to view billing details. Reference code 580.,1,campaign_059,SMS
